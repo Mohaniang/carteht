@@ -1,0 +1,104 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: linear-gradient(rgba(), rgba(), url (''));
+    justify-content: center;
+}
+
+
+.bloc{
+    background-color: grey;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+
+
+}
+
+.cannebiere{    
+    display: flex;
+    border-radius: 30px;
+    background-color: white;
+    flex-direction: column;
+    width: 350px;
+
+}
+.cannebiere img{
+    width: 450px;
+    border-radius: 30px;
+    justify-content: center;
+}
+figcaption{
+    display: flex;
+    
+}
+
+.cannebiere{    
+    display: flex;
+    border-radius: 30px;
+    background-color: white;
+    
+}
+.cannebiere img{
+    width: 250px;
+}
+figcaption{
+    display: flex;
+    flex-direction: cover;
+    
+}
+
+.cannebiere{    
+    display: flex;
+    border-radius: 30px;
+    background-color: white;
+}
+.cannebiere img{
+    width: 250px;
+}
+figcaption{
+    display: flex;
+    
+}
+
+.cannebiere{    
+    display: flex;
+    border-radius: 30px;
+    background-color: white;
+}
+.cannebiere img{
+    width: 250px;
+}
+figcaption{
+    display: flex;
+    
+}
+
+.cannebiere{    
+    display: flex;
+    border-radius: 30px;
+    background-color: white;
+}
+.cannebiere img{
+    width: 250px;
+}
+figcaption{
+    display: flex;
+    
+}
+
+.cannebiere{    
+    display: flex;
+    border-radius: 30px;
+    background-color: white;
+}
+.cannebiere img{
+    width: 250px;
+}
+figcaption{
+    display: flex;
+    
+}
+
+
