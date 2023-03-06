@@ -1,0 +1,110 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+header .logofood{
+display: flex;
+justify-content: center;
+height: 48px;
+}
+header .mapall{
+    display: flex;
+    justify-content: center;
+    background-color: #d9d9d9;
+    height: 55px;
+    padding-top: 18px;
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: 700;
+    opacity: 75%;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+header .mapall p{
+    margin-left: 15px;
+}
+Header .instru {
+    background-color: rgb(248, 243, 243);
+    padding-top: 55px;
+    height: 275px;
+}
+Header .instru h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+    font-family: "Gill Sans", sans-serif;
+}
+Header .instru p{
+    display: flex;
+    justify-content: center;
+    margin-top: 13px;
+    opacity: 75%;
+    font-size: 20px;
+}
+header .instru .centrerbutt{
+    display: flex;
+    justify-content: center;
+}
+header .instru .button{
+    display: flex;
+    justify-content: center;
+    margin-top: 13px;
+    height: 50px;
+    font-size: 17px;
+    border: none;
+    border-radius: 45px;
+    cursor: pointer;
+    background: linear-gradient(#e6648f, #9198e5);;
+    width: 220px;
+    color: white;
+}
+.fonct h1{
+    display: flex;
+    justify-content: center;
+}
+.choixr{
+    margin-left: 15px;
+    justify-content: baseline;
+    display: flex;
+    background-color: beige;
+    padding-top: 15px;
+    padding-left: 110px;
+    width: 420px;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 25px 25px 25px 25px ;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.choixr .tel{
+    padding-right: 10px;
+}
+.choixr .tel :hover{
+color: plum;
+}
+.choixr .num p{
+    display: flex;
+    margin-left: -114px;
+    border-radius: 200px;
+    background: linear-gradient(#e6648f, #9198e5);;
+    width: 20px;
+    color: white;
+    padding-left: 5px;
+}
+.fonct {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.Tfonct{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-family: "Gill Sans", sans-serif;
+}
+.hresto{
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+    font-family: "Gill Sans", sans-serif;
+
+}
